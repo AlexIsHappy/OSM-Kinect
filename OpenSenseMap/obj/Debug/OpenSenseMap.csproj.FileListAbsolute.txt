@@ -1,0 +1,149 @@
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\OpenSenseMap.exe.config
+C:\Users\OSM\Desktop\osm\OpenSenseMap\obj\Debug\OpenSenseMap.exe
+C:\Users\OSM\Desktop\osm\OpenSenseMap\obj\Debug\OpenSenseMap.pdb
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\OpenSenseMap.exe
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\OpenSenseMap.pdb
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\Awesomium.Core.dll
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\Awesomium.Windows.Controls.dll
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.dll
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\Awesomium.Core.xml
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\Awesomium.Windows.Controls.xml
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\LightBuzz.Vitruvius.pdb
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\LightBuzz.Vitruvius.xml
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.xml
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\awesomium.dll
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\icudt.dll
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\avcodec-53.dll
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\avformat-53.dll
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\avutil-51.dll
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\libEGL.dll
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\libGLESv2.dll
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\awesomium_process
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\inspector.pak
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\xinput9_1_0.dll
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\pdf_js.pak
+C:\Users\OSM\Desktop\osm\OpenSenseMap\obj\Debug\OpenSenseMap.csprojResolveAssemblyReference.cache
+C:\Users\OSM\Desktop\osm\OpenSenseMap\obj\Debug\MainWindow.baml
+C:\Users\OSM\Desktop\osm\OpenSenseMap\obj\Debug\MainWindow.g.cs
+C:\Users\OSM\Desktop\osm\OpenSenseMap\obj\Debug\App.g.cs
+C:\Users\OSM\Desktop\osm\OpenSenseMap\obj\Debug\OpenSenseMap_MarkupCompile.cache
+C:\Users\OSM\Desktop\osm\OpenSenseMap\obj\Debug\OpenSenseMap.g.resources
+C:\Users\OSM\Desktop\osm\OpenSenseMap\obj\Debug\OpenSenseMap.Properties.Resources.resources
+C:\Users\OSM\Desktop\osm\OpenSenseMap\obj\Debug\OpenSenseMap.csproj.GenerateResource.Cache
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\WpfAnimatedGif.dll
+C:\Users\OSM\Desktop\osm\OpenSenseMap\bin\Debug\WpfAnimatedGif.xml
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\OpenSenseMap.exe.config
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\obj\Debug\OpenSenseMap.exe
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\obj\Debug\OpenSenseMap.pdb
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\OpenSenseMap.exe
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\OpenSenseMap.pdb
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.dll
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Tools.dll
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\WpfAnimatedGif.dll
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\Awesomium.Core.xml
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\Awesomium.Windows.Controls.xml
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\LightBuzz.Vitruvius.pdb
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.xml
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Tools.xml
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\WpfAnimatedGif.xml
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\awesomium.dll
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\icudt.dll
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\avcodec-53.dll
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\avformat-53.dll
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\avutil-51.dll
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\libEGL.dll
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\libGLESv2.dll
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\awesomium_process
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\inspector.pak
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\xinput9_1_0.dll
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\pdf_js.pak
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\obj\Debug\OpenSenseMap.csprojResolveAssemblyReference.cache
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\obj\Debug\MainWindow.baml
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\obj\Debug\MainWindow.g.cs
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\obj\Debug\App.g.cs
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\obj\Debug\OpenSenseMap_MarkupCompile.cache
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\obj\Debug\OpenSenseMap.g.resources
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\obj\Debug\OpenSenseMap.Properties.Resources.resources
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\obj\Debug\OpenSenseMap.csproj.GenerateResource.Cache
+D:\Kinect\OSM Kinect\osm\OpenSenseMap\bin\Debug\LightBuzz.Vitruvius.dll
+D:\osm\OpenSenseMap\bin\Debug\OpenSenseMap.exe.config
+D:\osm\OpenSenseMap\obj\Debug\OpenSenseMap.exe
+D:\osm\OpenSenseMap\obj\Debug\OpenSenseMap.pdb
+D:\osm\OpenSenseMap\bin\Debug\OpenSenseMap.exe
+D:\osm\OpenSenseMap\bin\Debug\OpenSenseMap.pdb
+D:\osm\OpenSenseMap\bin\Debug\LightBuzz.Vitruvius.dll
+D:\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.dll
+D:\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Tools.dll
+D:\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+D:\osm\OpenSenseMap\bin\Debug\WpfAnimatedGif.dll
+D:\osm\OpenSenseMap\bin\Debug\Awesomium.Core.xml
+D:\osm\OpenSenseMap\bin\Debug\Awesomium.Windows.Controls.xml
+D:\osm\OpenSenseMap\bin\Debug\LightBuzz.Vitruvius.pdb
+D:\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.xml
+D:\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Tools.xml
+D:\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\osm\OpenSenseMap\bin\Debug\WpfAnimatedGif.xml
+D:\osm\OpenSenseMap\bin\Debug\awesomium.dll
+D:\osm\OpenSenseMap\bin\Debug\icudt.dll
+D:\osm\OpenSenseMap\bin\Debug\avcodec-53.dll
+D:\osm\OpenSenseMap\bin\Debug\avformat-53.dll
+D:\osm\OpenSenseMap\bin\Debug\avutil-51.dll
+D:\osm\OpenSenseMap\bin\Debug\libEGL.dll
+D:\osm\OpenSenseMap\bin\Debug\libGLESv2.dll
+D:\osm\OpenSenseMap\bin\Debug\awesomium_process
+D:\osm\OpenSenseMap\bin\Debug\inspector.pak
+D:\osm\OpenSenseMap\bin\Debug\xinput9_1_0.dll
+D:\osm\OpenSenseMap\bin\Debug\pdf_js.pak
+D:\osm\OpenSenseMap\obj\Debug\OpenSenseMap.csprojResolveAssemblyReference.cache
+D:\osm\OpenSenseMap\obj\Debug\MainWindow.baml
+D:\osm\OpenSenseMap\obj\Debug\MainWindow.g.cs
+D:\osm\OpenSenseMap\obj\Debug\App.g.cs
+D:\osm\OpenSenseMap\obj\Debug\OpenSenseMap_MarkupCompile.cache
+D:\osm\OpenSenseMap\obj\Debug\OpenSenseMap.g.resources
+D:\osm\OpenSenseMap\obj\Debug\OpenSenseMap.Properties.Resources.resources
+D:\osm\OpenSenseMap\obj\Debug\OpenSenseMap.csproj.GenerateResource.Cache
+C:\Users\Alex\Dropbox\alex-sergey\OSM Kinect\osm\OpenSenseMap\bin\Debug\OpenSenseMap.exe.config
+C:\Users\Alex\Dropbox\alex-sergey\OSM Kinect\osm\OpenSenseMap\obj\Debug\OpenSenseMap.exe
+C:\Users\Alex\Dropbox\alex-sergey\OSM Kinect\osm\OpenSenseMap\obj\Debug\OpenSenseMap.pdb
+D:\Kinect\osm\OpenSenseMap\bin\Debug\OpenSenseMap.exe.config
+D:\Kinect\osm\OpenSenseMap\obj\Debug\OpenSenseMap.exe
+D:\Kinect\osm\OpenSenseMap\obj\Debug\OpenSenseMap.pdb
+D:\Kinect\osm\OpenSenseMap\bin\Debug\OpenSenseMap.exe
+D:\Kinect\osm\OpenSenseMap\bin\Debug\OpenSenseMap.pdb
+D:\Kinect\osm\OpenSenseMap\bin\Debug\LightBuzz.Vitruvius.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Tools.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\WpfAnimatedGif.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\Awesomium.Core.xml
+D:\Kinect\osm\OpenSenseMap\bin\Debug\Awesomium.Windows.Controls.xml
+D:\Kinect\osm\OpenSenseMap\bin\Debug\LightBuzz.Vitruvius.pdb
+D:\Kinect\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.xml
+D:\Kinect\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Tools.xml
+D:\Kinect\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\Kinect\osm\OpenSenseMap\bin\Debug\WpfAnimatedGif.xml
+D:\Kinect\osm\OpenSenseMap\bin\Debug\awesomium.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\icudt.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\avcodec-53.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\avformat-53.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\avutil-51.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\libEGL.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\libGLESv2.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\awesomium_process
+D:\Kinect\osm\OpenSenseMap\bin\Debug\inspector.pak
+D:\Kinect\osm\OpenSenseMap\bin\Debug\xinput9_1_0.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\pdf_js.pak
+D:\Kinect\osm\OpenSenseMap\obj\Debug\OpenSenseMap.csprojResolveAssemblyReference.cache
+D:\Kinect\osm\OpenSenseMap\obj\Debug\MainWindow.baml
+D:\Kinect\osm\OpenSenseMap\obj\Debug\MainWindow.g.cs
+D:\Kinect\osm\OpenSenseMap\obj\Debug\App.g.cs
+D:\Kinect\osm\OpenSenseMap\obj\Debug\OpenSenseMap_MarkupCompile.cache
+D:\Kinect\osm\OpenSenseMap\obj\Debug\OpenSenseMap.g.resources
+D:\Kinect\osm\OpenSenseMap\obj\Debug\OpenSenseMap.Properties.Resources.resources
+D:\Kinect\osm\OpenSenseMap\obj\Debug\OpenSenseMap.csproj.GenerateResource.Cache

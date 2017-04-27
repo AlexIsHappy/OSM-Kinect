@@ -1,0 +1,56 @@
+﻿<Window x:Class="OpenSenseMap.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:awe="http://schemas.awesomium.com/winfx"
+        xmlns:k="http://schemas.microsoft.com/kinect/2014"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        xmlns:controls="clr-namespace:LightBuzz.Vitruvius.Controls;assembly=LightBuzz.Vitruvius"
+        Title="MainWindow" Height="350" Width="525"
+        WindowStyle="None" ResizeMode="NoResize"  
+        Background="{x:Null}"
+        xmlns:wpf="clr-namespace:CefSharp.Wpf;assembly=CefSharp.Wpf"
+        WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <wpf:ChromiumWebBrowser x:Name="webControl" Grid.Row="0" Grid.RowSpan="2" Grid.Column="0" Grid.ColumnSpan="3"
+                          Address ="http://139.59.128.198/" />
+        
+        <!-- Camera view -->
+        <controls:KinectViewer  x:Name="viewer" Grid.Row="2" Grid.Column="0"   />
+
+        <!-- Animation with gesture explanation -->
+        <Image x:Name="zoomAnimation" Grid.Row="1"  Grid.Column="2" gif:ImageBehavior.AnimatedSource="Animations/Zoom_02.gif" />
+
+        <!-- Additional images -->
+        <Grid Grid.Row="0" Grid.Column="1">
+            <Image x:Name="light_image" Visibility="Hidden"></Image>
+        </Grid>
+
+        <!-- Animation with swipe explanation -->
+        <Grid Grid.Column="1" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"></RowDefinition>
+                <RowDefinition Height="1*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Image x:Name="swipeAnimation" Visibility="Hidden" Grid.Row="0" Grid.Column="1" gif:ImageBehavior.AnimatedSource="Animations/ChangePage_01.gif"/>
+        </Grid>
+
+        <!-- <TextBox x:Name="text1" HorizontalAlignment="Left" Height="116" TextWrapping="Wrap" FontSize="60" VerticalAlignment="Top" Width="659" Grid.ColumnSpan="2" Margin="55,45,-189,0"/>  -->
+    </Grid>
+</Window>
+    
+    

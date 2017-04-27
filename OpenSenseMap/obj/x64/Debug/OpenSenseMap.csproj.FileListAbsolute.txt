@@ -1,0 +1,118 @@
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\OpenSenseMap.exe.config
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\OpenSenseMap.exe
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\OpenSenseMap.pdb
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\LightBuzz.Vitruvius.dll
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\WpfAnimatedGif.dll
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\LightBuzz.Vitruvius.pdb
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\Microsoft.Kinect.Tools.xml
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\WpfAnimatedGif.xml
+D:\Kinect\osm\OpenSenseMap\obj\x64\Debug\OpenSenseMap.csprojResolveAssemblyReference.cache
+D:\Kinect\osm\OpenSenseMap\obj\x64\Debug\MainWindow.baml
+D:\Kinect\osm\OpenSenseMap\obj\x64\Debug\MainWindow.g.cs
+D:\Kinect\osm\OpenSenseMap\obj\x64\Debug\App.g.cs
+D:\Kinect\osm\OpenSenseMap\obj\x64\Debug\OpenSenseMap_MarkupCompile.cache
+D:\Kinect\osm\OpenSenseMap\obj\x64\Debug\OpenSenseMap.g.resources
+D:\Kinect\osm\OpenSenseMap\obj\x64\Debug\OpenSenseMap.Properties.Resources.resources
+D:\Kinect\osm\OpenSenseMap\obj\x64\Debug\OpenSenseMap.csproj.GenerateResource.Cache
+D:\Kinect\osm\OpenSenseMap\obj\x64\Debug\OpenSenseMap.exe
+D:\Kinect\osm\OpenSenseMap\obj\x64\Debug\OpenSenseMap.pdb
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\CefSharp.Core.dll
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\CefSharp.dll
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\CefSharp.Wpf.dll
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\CefSharp.Wpf.xml
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\CefSharp.xml
+D:\Kinect\osm\OpenSenseMap\bin\x64\Debug\CefSharp.Core.xml
+D:\Kinect\osm\OpenSenseMap\bin\Debug\OpenSenseMap.exe.config
+D:\Kinect\osm\OpenSenseMap\bin\Debug\OpenSenseMap.exe
+D:\Kinect\osm\OpenSenseMap\bin\Debug\OpenSenseMap.pdb
+D:\Kinect\osm\OpenSenseMap\bin\Debug\CefSharp.Core.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\CefSharp.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\CefSharp.Wpf.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\LightBuzz.Vitruvius.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Tools.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\WpfAnimatedGif.dll
+D:\Kinect\osm\OpenSenseMap\bin\Debug\CefSharp.Wpf.xml
+D:\Kinect\osm\OpenSenseMap\bin\Debug\CefSharp.xml
+D:\Kinect\osm\OpenSenseMap\bin\Debug\CefSharp.Core.xml
+D:\Kinect\osm\OpenSenseMap\bin\Debug\LightBuzz.Vitruvius.pdb
+D:\Kinect\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.xml
+D:\Kinect\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Tools.xml
+D:\Kinect\osm\OpenSenseMap\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\Kinect\osm\OpenSenseMap\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Alex\Dropbox\alex-sergey\OSM Kinect\osm\OpenSenseMap\bin\Debug\OpenSenseMap.exe.config
+C:\Users\Alex\Dropbox\alex-sergey\OSM Kinect\osm\OpenSenseMap\obj\x64\Debug\OpenSenseMap.exe
+C:\Users\Alex\Dropbox\alex-sergey\OSM Kinect\osm\OpenSenseMap\obj\x64\Debug\OpenSenseMap.pdb
+D:\Kinect\osm\OpenSenseMap\bin\Debug\LightBuzz.Vitruvius.xml
+C:\Users\Shirokov\Dropbox\alex-sergey\OSM Kinect\osm updated\OpenSenseMap\bin\Debug\OpenSenseMap.exe.config
+C:\Users\Shirokov\Dropbox\alex-sergey\OSM Kinect\osm updated\OpenSenseMap\obj\x64\Debug\OpenSenseMap.exe
+C:\Users\Shirokov\Dropbox\alex-sergey\OSM Kinect\osm updated\OpenSenseMap\obj\x64\Debug\OpenSenseMap.pdb
+D:\osm updated\OpenSenseMap\bin\Debug\OpenSenseMap.exe.config
+D:\osm updated\OpenSenseMap\obj\x64\Debug\OpenSenseMap.exe
+D:\osm updated\OpenSenseMap\obj\x64\Debug\OpenSenseMap.pdb
+D:\osm updated\OpenSenseMap\bin\Debug\OpenSenseMap.exe
+D:\osm updated\OpenSenseMap\bin\Debug\OpenSenseMap.pdb
+D:\osm updated\OpenSenseMap\bin\Debug\CefSharp.Core.dll
+D:\osm updated\OpenSenseMap\bin\Debug\CefSharp.dll
+D:\osm updated\OpenSenseMap\bin\Debug\CefSharp.Wpf.dll
+D:\osm updated\OpenSenseMap\bin\Debug\LightBuzz.Vitruvius.dll
+D:\osm updated\OpenSenseMap\bin\Debug\Microsoft.Kinect.dll
+D:\osm updated\OpenSenseMap\bin\Debug\Microsoft.Kinect.Tools.dll
+D:\osm updated\OpenSenseMap\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+D:\osm updated\OpenSenseMap\bin\Debug\WpfAnimatedGif.dll
+D:\osm updated\OpenSenseMap\bin\Debug\CefSharp.Wpf.xml
+D:\osm updated\OpenSenseMap\bin\Debug\CefSharp.xml
+D:\osm updated\OpenSenseMap\bin\Debug\CefSharp.Core.xml
+D:\osm updated\OpenSenseMap\bin\Debug\LightBuzz.Vitruvius.pdb
+D:\osm updated\OpenSenseMap\bin\Debug\LightBuzz.Vitruvius.xml
+D:\osm updated\OpenSenseMap\bin\Debug\Microsoft.Kinect.xml
+D:\osm updated\OpenSenseMap\bin\Debug\Microsoft.Kinect.Tools.xml
+D:\osm updated\OpenSenseMap\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\osm updated\OpenSenseMap\bin\Debug\WpfAnimatedGif.xml
+D:\osm updated\OpenSenseMap\obj\x64\Debug\OpenSenseMap.csprojResolveAssemblyReference.cache
+D:\osm updated\OpenSenseMap\obj\x64\Debug\MainWindow.baml
+D:\osm updated\OpenSenseMap\obj\x64\Debug\MainWindow.g.cs
+D:\osm updated\OpenSenseMap\obj\x64\Debug\App.g.cs
+D:\osm updated\OpenSenseMap\obj\x64\Debug\OpenSenseMap_MarkupCompile.cache
+D:\osm updated\OpenSenseMap\obj\x64\Debug\OpenSenseMap.g.resources
+D:\osm updated\OpenSenseMap\obj\x64\Debug\OpenSenseMap.Properties.Resources.resources
+D:\osm updated\OpenSenseMap\obj\x64\Debug\OpenSenseMap.csproj.GenerateResource.Cache
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\OpenSenseMap.exe.config
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\obj\x64\Debug\OpenSenseMap.exe
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\obj\x64\Debug\OpenSenseMap.pdb
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\OpenSenseMap.exe
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\OpenSenseMap.pdb
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\CefSharp.Core.dll
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\CefSharp.dll
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\CefSharp.Wpf.dll
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\LightBuzz.Vitruvius.dll
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\Microsoft.Kinect.dll
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\Microsoft.Kinect.Tools.dll
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\WpfAnimatedGif.dll
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\CefSharp.Wpf.xml
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\CefSharp.xml
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\CefSharp.Core.xml
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\LightBuzz.Vitruvius.pdb
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\LightBuzz.Vitruvius.xml
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\Microsoft.Kinect.xml
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\Microsoft.Kinect.Tools.xml
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\WpfAnimatedGif.xml
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\obj\x64\Debug\OpenSenseMap.csprojResolveAssemblyReference.cache
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\obj\x64\Debug\MainWindow.baml
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\obj\x64\Debug\MainWindow.g.cs
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\obj\x64\Debug\App.g.cs
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\obj\x64\Debug\OpenSenseMap_MarkupCompile.cache
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\obj\x64\Debug\OpenSenseMap.g.resources
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\obj\x64\Debug\OpenSenseMap.Properties.Resources.resources
+D:\OSM Kinect Version 24.11.2016\OpenSenseMap\obj\x64\Debug\OpenSenseMap.csproj.GenerateResource.Cache
+C:\Users\Alex\Dropbox\alex-sergey\OSM Kinect\OSM Kinect Version 24.11.2016\OpenSenseMap\bin\Debug\OpenSenseMap.exe.config
+C:\Users\Alex\Dropbox\alex-sergey\OSM Kinect\OSM Kinect Version 24.11.2016\OpenSenseMap\obj\x64\Debug\OpenSenseMap.exe
+C:\Users\Alex\Dropbox\alex-sergey\OSM Kinect\OSM Kinect Version 24.11.2016\OpenSenseMap\obj\x64\Debug\OpenSenseMap.pdb

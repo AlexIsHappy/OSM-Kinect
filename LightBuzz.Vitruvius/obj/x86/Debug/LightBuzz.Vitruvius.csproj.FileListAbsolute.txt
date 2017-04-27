@@ -1,0 +1,38 @@
+E:\Kinect v2\WPF\LightBuzz.Vitruvius\bin\x86\Debug\LightBuzz.Vitruvius.dll
+E:\Kinect v2\WPF\LightBuzz.Vitruvius\bin\x86\Debug\LightBuzz.Vitruvius.pdb
+E:\Kinect v2\WPF\LightBuzz.Vitruvius\bin\x86\Debug\Microsoft.Kinect.Face.dll
+E:\Kinect v2\WPF\LightBuzz.Vitruvius\bin\x86\Debug\Microsoft.Kinect.Face.xml
+E:\Kinect v2\WPF\LightBuzz.Vitruvius\obj\x86\Debug\Controls\KinectAngle.g.cs
+E:\Kinect v2\WPF\LightBuzz.Vitruvius\obj\x86\Debug\Controls\KinectJointSelector.g.cs
+E:\Kinect v2\WPF\LightBuzz.Vitruvius\obj\x86\Debug\Controls\KinectViewer.g.cs
+E:\Kinect v2\WPF\LightBuzz.Vitruvius\obj\x86\Debug\LightBuzz.Vitruvius_MarkupCompile.cache
+E:\Kinect v2\WPF\LightBuzz.Vitruvius\obj\x86\Debug\LightBuzz.Vitruvius_MarkupCompile.lref
+E:\Kinect v2\WPF\LightBuzz.Vitruvius\obj\x86\Debug\Controls\KinectAngle.baml
+E:\Kinect v2\WPF\LightBuzz.Vitruvius\obj\x86\Debug\Controls\KinectJointSelector.baml
+E:\Kinect v2\WPF\LightBuzz.Vitruvius\obj\x86\Debug\Controls\KinectViewer.baml
+E:\Kinect v2\WPF\LightBuzz.Vitruvius\obj\x86\Debug\LightBuzz.Vitruvius.g.resources
+E:\Kinect v2\WPF\LightBuzz.Vitruvius\obj\x86\Debug\LightBuzz.Vitruvius.dll
+E:\Kinect v2\WPF\LightBuzz.Vitruvius\obj\x86\Debug\LightBuzz.Vitruvius.pdb
+D:\Kinect\osm\LightBuzz.Vitruvius\bin\x86\Debug\LightBuzz.Vitruvius.dll
+D:\Kinect\osm\LightBuzz.Vitruvius\bin\x86\Debug\LightBuzz.Vitruvius.pdb
+D:\Kinect\osm\LightBuzz.Vitruvius\bin\x86\Debug\Microsoft.Kinect.dll
+D:\Kinect\osm\LightBuzz.Vitruvius\bin\x86\Debug\Microsoft.Kinect.Face.dll
+D:\Kinect\osm\LightBuzz.Vitruvius\bin\x86\Debug\Microsoft.Kinect.xml
+D:\Kinect\osm\LightBuzz.Vitruvius\bin\x86\Debug\Microsoft.Kinect.Face.xml
+D:\Kinect\osm\LightBuzz.Vitruvius\obj\x86\Debug\Controls\KinectAngle.g.cs
+D:\Kinect\osm\LightBuzz.Vitruvius\obj\x86\Debug\Controls\KinectJointSelector.g.cs
+D:\Kinect\osm\LightBuzz.Vitruvius\obj\x86\Debug\Controls\KinectViewer.g.cs
+D:\Kinect\osm\LightBuzz.Vitruvius\obj\x86\Debug\LightBuzz.Vitruvius_MarkupCompile.cache
+D:\Kinect\osm\LightBuzz.Vitruvius\obj\x86\Debug\LightBuzz.Vitruvius_MarkupCompile.lref
+D:\Kinect\osm\LightBuzz.Vitruvius\obj\x86\Debug\Controls\KinectAngle.baml
+D:\Kinect\osm\LightBuzz.Vitruvius\obj\x86\Debug\Controls\KinectJointSelector.baml
+D:\Kinect\osm\LightBuzz.Vitruvius\obj\x86\Debug\Controls\KinectViewer.baml
+D:\Kinect\osm\LightBuzz.Vitruvius\obj\x86\Debug\LightBuzz.Vitruvius.g.resources
+D:\Kinect\osm\LightBuzz.Vitruvius\obj\x86\Debug\LightBuzz.Vitruvius.dll
+D:\Kinect\osm\LightBuzz.Vitruvius\obj\x86\Debug\LightBuzz.Vitruvius.pdb
+D:\Kinect\osm\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius.dll
+D:\Kinect\osm\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius.pdb
+D:\Kinect\osm\LightBuzz.Vitruvius\obj\Debug\Microsoft.Kinect.dll
+D:\Kinect\osm\LightBuzz.Vitruvius\obj\Debug\Microsoft.Kinect.Face.dll
+D:\Kinect\osm\LightBuzz.Vitruvius\obj\Debug\Microsoft.Kinect.xml
+D:\Kinect\osm\LightBuzz.Vitruvius\obj\Debug\Microsoft.Kinect.Face.xml
